@@ -1,0 +1,8 @@
+{
+  "name": "mandate-counsel",
+  "version": "0.1.0",
+  "description": "Checks planned changes against legal counsel triggers (AI features, agent actions, sensitive data, analytics, payments, minors) before your agent builds them.",
+  "author": { "name": "Mandate Law" },
+  "homepage": "https://mandatelaw.ai",
+  "license": "CC-BY-4.0"
+}

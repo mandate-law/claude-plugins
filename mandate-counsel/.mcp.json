@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mandate-counsel": {
+      "type": "http",
+      "url": "https://mandatelaw.ai/mcp"
+    }
+  }
+}
