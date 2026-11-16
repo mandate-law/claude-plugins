@@ -5,7 +5,7 @@
     {
       "name": "mandate-counsel",
       "source": "./mandate-counsel",
-      "description": "Checks planned changes against legal counsel triggers before your agent builds them, and connects to Mandate Law's MCP server."
+      "description": "Checks planned changes against legal counsel triggers before your agent builds them, and connects to Mandate Law's free tools."
     }
   ]
 }

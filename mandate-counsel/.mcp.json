@@ -2,7 +2,7 @@
   "mcpServers": {
     "mandate-counsel": {
       "type": "http",
-      "url": "https://mandatelaw.ai/mcp"
+      "url": "https://mandatelaw.ai/mcp/public"
     }
   }
 }
