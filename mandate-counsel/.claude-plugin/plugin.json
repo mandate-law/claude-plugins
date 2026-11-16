@@ -1,11 +1,21 @@
 {
   "name": "mandate-counsel",
   "displayName": "Mandate Counsel",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Checks planned changes against legal counsel triggers (AI features, agent actions, sensitive data, analytics, payments, minors) before your agent builds them, and connects to Mandate Law's free tools.",
-  "author": { "name": "Mandate Law", "url": "https://mandatelaw.ai" },
+  "author": {
+    "name": "Mandate Law",
+    "url": "https://mandatelaw.ai"
+  },
   "homepage": "https://mandatelaw.ai/connector",
+  "privacyPolicyUrl": "https://mandatelaw.ai/privacy",
   "repository": "https://github.com/mandate-law/claude-plugins",
   "license": "CC-BY-4.0",
-  "keywords": ["legal", "privacy", "compliance", "ai", "agents"]
+  "keywords": [
+    "legal",
+    "privacy",
+    "compliance",
+    "ai",
+    "agents"
+  ]
 }

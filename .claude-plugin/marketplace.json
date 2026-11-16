@@ -1,6 +1,9 @@
 {
   "name": "mandate-law",
-  "owner": { "name": "Mandate Law" },
+  "description": "Mandate Law plugins for teams building AI products, agents, and consumer apps: catch changes that need legal review before your agent builds them.",
+  "owner": {
+    "name": "Mandate Law"
+  },
   "plugins": [
     {
       "name": "mandate-counsel",
