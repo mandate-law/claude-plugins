@@ -1,6 +1,6 @@
 {
   "title": "Counsel triggers",
-  "instructions_for_agents": "Before you build, merge, or launch a change, check it against these triggers. If a change matches one, stop before building that part and tell your human; with their approval, call feature_check. Swapping one vendor for another that does the same job does not need review. A security incident means contact counsel immediately, not before launch. This is a template; each client's copy is tailored to their product.",
+  "instructions_for_agents": "Before you build, merge, or launch a change, check it against these triggers. If a change matches one, stop before building that part and tell your human; with their approval, call feature_check. Swapping one vendor for another that does the same job does not need review, unless the change matches a trigger. A trigger always wins: switching or adding a model provider still needs review. A security incident means contact counsel immediately, not before launch. This is a template; each client's copy is tailored to their product.",
   "catch_all": [
     "The change collects a new kind of information.",
     "The change uses information for a new purpose.",
